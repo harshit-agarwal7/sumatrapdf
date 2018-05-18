@@ -15,7 +15,7 @@ and Visual Studio constantly adds latest capabilities. If things don't compile,
 first make sure you're using the latest update of Visual Studio.
 
 To get the code:
-* `git clone git@github.com:sumatrapdfreader/sumatrapdf.git`
+* `git clone https://github.com/sumatrapdfreader/sumatrapdf`
 
 Open `vs2017/SumatraPDF.sln` when using Visual Studio 2017
 
